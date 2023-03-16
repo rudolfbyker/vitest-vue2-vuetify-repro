@@ -1,0 +1,25 @@
+{
+  "name": "example",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Rudolf W Byker",
+    "email": "rudolfbyker@gmail.com"
+  },
+  "dependencies": {
+    "vue": "^2.7.14",
+    "vuetify": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.2.0",
+    "@vue/test-utils": "^1.3",
+    "jsdom": "^21.1.1",
+    "sass": "^1.59.3",
+    "typescript": "^4.9.5",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.1.4",
+    "vitest": "^0.29.3",
+    "vue-template-compiler": "^2.7.14"
+  },
+  "packageManager": "yarn@3.4.1"
+}
